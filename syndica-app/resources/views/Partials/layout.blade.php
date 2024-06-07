@@ -7,6 +7,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://cdn.tailwindcss.com"></script>
 
-    <title>Document</title>
+    <title>syndic</title>
 </head>
 <body>
