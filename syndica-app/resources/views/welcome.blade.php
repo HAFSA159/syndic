@@ -47,7 +47,7 @@
                                 <i class="fas fa-award"></i>
                             </div>
                             <h6 class="text-xl font-semibold">Gestion Simplifiée</h6>
-                            <p class="mt-2 mb-4 text-blueGray-500">
+                            <p class="mt-2 mb-4 text-blueGray-600">
                                 Suivez et gérez facilement les dépenses, les budgets et les travaux de votre résidence.
                             </p>
                         </div>
@@ -61,7 +61,7 @@
                                 <i class="fas fa-retweet"></i>
                             </div>
                             <h6 class="text-xl font-semibold">Communication Efficace</h6>
-                            <p class="mt-2 mb-4 text-blueGray-500">
+                            <p class="mt-2 mb-4 text-blueGray-600">
                                 Restez informé des dernières nouvelles et annonces grâce à notre système de messagerie
                                 et de notifications.
                             </p>
@@ -76,7 +76,7 @@
                                 <i class="fas fa-fingerprint"></i>
                             </div>
                             <h6 class="text-xl font-semibold">Organisation des Réunions </h6>
-                            <p class="mt-2 mb-4 text-blueGray-500">
+                            <p class="mt-2 mb-4 text-blueGray-600">
                                 Planifiez et participez aux réunions de copropriété directement depuis
                                 l'application. </p>
                         </div>
